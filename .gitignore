@@ -2,3 +2,5 @@
 venv
 .venv
 __pycache__/
+.langgraph_api/
+.vscode
